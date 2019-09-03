@@ -1,0 +1,3 @@
+task wrapper1(type: Wrapper) {
+    gradleVersion = '4.2.1'
+}
